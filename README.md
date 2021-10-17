@@ -3,7 +3,7 @@
 
 ## 💵 [Self-Hosting-Guide](https://github.com/Oreki-san/Eru-Guide/blob/main/Self-Hosting-Guide.md)
 ## 💴 [Heroku-Deploy-Guide](https://github.com/Oreki-san/Eru-Guide/blob/main/Heroku-Deploy-Guide.md) 
-## 💶 [Mongo-Atlas-Guide](https://github.com/Oreki-san/Eru-Guides/blob/main/Mongo-Atlas-Guide.md)
+## 💶 [Mongo-Atlas-Guide](https://github.com/Oreki-san/Eru-Guide/blob/main/Mongo-Atlas-Guide.md)
 ## 💷 [ChatBot_Url_Guide](https://github.com/Oreki-san/Eru-Guide/blob/main/Chatbot_Url_Guide.md)
 
 ## ⚖️ Contribution

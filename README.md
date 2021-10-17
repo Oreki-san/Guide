@@ -11,6 +11,7 @@
 + Feel free to open issues regarding any problems or if you have any feature requests
 + Make sure to follow the ESLint Rules while editing the code and run `yarn run prettier-format` before opening PRs
 
-### 🟢 WhatsApp 
-# [![WhatsApp Group](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](wa.me/919002370263)
+### 🟢 Instagram
+
+href="https://instagram.com/ig_oreki" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ig_oreki" height="30" width="40" /></a>
 

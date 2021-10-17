@@ -1,5 +1,5 @@
 # Heroku Deploy Guide
-##  WhatsApp Botto: Eru 🤍<br>
+##  WhatsApp Bot: Eru 🤍<br>
 ### Pre-requisite
  - 🌐️ Internet 🌐️️
 - 🧠️ Brain 🧠️
@@ -21,7 +21,7 @@
     | MONGO_URI | YOUR CLUSTER URI |
  
 `NAME` The name of the Bot <br>
-`CHAT_BOT_URL` A BOT WITH A BRAIN ROCKS! Click=> [Get ChatBot Url](https://github.com/Hiroto77/Kaoi-Guides/blob/main/Chat_Bot_Url.md)<br>
+`CHAT_BOT_URL` A BOT WITH A BRAIN ROCKS! Click=> [Get ChatBot Url](https://github.com/Oreki-san/Eru-Guide/blob/main/Chatbot-Url-Guide.md)<br>
 `CRON` Cron schedule for clearing all chats (Default: `"0 */6 * * *"`. Every 6 Hours). change this field to `null` if you don't want to schedule. [Learn More](https://www.npmjs.com/package/node-cron) <br>
 `GOOGLE_API_KEY` Custom Search JSON API requires the use of an API key. [Get API key here](https://developers.google.com/custom-search/v1/introduction). After getting the API key, insert it while deploying on HEROKU. <br>
 `PREFIX` The Prefix of the Bot <br>
